@@ -1,7 +1,7 @@
 ## Reproducibility Statement
 
 ### Code Availability
-  All code is provided in **Jupyter notebook format** within this repository.The notebooks include detailed annotations, enabling readers to follow the implementation easily.We have also added an extended **README** file that offers further explanations and experiment-specific details.
+&nbsp;&nbsp;All code is provided in **Jupyter notebook format** within this repository.The notebooks include detailed annotations, enabling readers to follow the implementation easily.We have also added an extended **README** file that offers further explanations and experiment-specific details.
 
 ### Experimental Setup
   We provide three independent experiments based on different datasets: **MNIST**, **CIFAR-10**, and **Speech Commands**.While the overall methodology is consistent with *Figure 1 (page 8)* of the paper, the training and attack configurations differ across datasets due to variations in dataset size and characteristics.  
@@ -40,4 +40,4 @@ All experiments were run on **NVIDIA GPUs**. Please ensure that **CUDA**, **PyTo
   - Code is concise: modifying the first section is sufficient to reproduce **Table 6 (p.22)**.  
 
 ### Summary
-  By combining the Jupyter notebooks, annotations, and the extended README file, researchers should be able to reproduce the reported experimental results with minimal effort.The repository is designed to allow straightforward extension and modification for new experimental settings.  
+&nbsp;&nbsp;By combining the Jupyter notebooks, annotations, and the extended README file, researchers should be able to reproduce the reported experimental results with minimal effort.The repository is designed to allow straightforward extension and modification for new experimental settings.  
