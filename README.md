@@ -9,7 +9,7 @@
 - **MNIST**: lightweight experiment for quick validation.  
 - **CIFAR-10** and **Speech Commands**: main experiments reported in the manuscript, demonstrating the effectiveness of our method.  
 
-All experiments were run on **NVIDIA GPUs**. Please ensure that **CUDA**, **PyTorch**, and **TensorFlow** are properly configured prior to running the experiments.  
+&nbsp;&nbsp;&nbsp;&nbsp;All experiments were run on **NVIDIA GPUs**. Please ensure that **CUDA**, **PyTorch**, and **TensorFlow** are properly configured prior to running the experiments.  
 
 ### Dataset-Specific Instructions
 
